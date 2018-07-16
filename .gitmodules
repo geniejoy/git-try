@@ -1,0 +1,3 @@
+[submodule "git-try-subtree"]
+	path = git-try-subtree
+	url = https://github.com/geniejoy/git-try-subtree.git
